@@ -1,0 +1,8 @@
+streamlit
+ yfinance
+ pandas
+ requests
+ matplotlib
+ pyyaml
+ numpy
+ talib-binary
