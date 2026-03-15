@@ -1,0 +1,13 @@
+api_endpoints:
+  stock_data: "https://api.example.com/stock"
+  screening: "https://api.example.com/screen"
+data_parameters:
+  fields:
+    - "symbol"
+    - "price"
+    - "volume"
+  date_format: "YYYY-MM-DD"
+screening_thresholds:
+  min_price: 10.00
+  max_price: 500.00
+  min_volume: 10000
